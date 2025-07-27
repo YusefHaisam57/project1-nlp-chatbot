@@ -13,6 +13,6 @@ git commit -m "Initial commit"
 # 6. Rename the branch to 'main' (GitHub default)
 git branch -M main
 # 7. Add the remote repository (replace URL with your actual repo)
-git remote add origin https://github.com/mahmoudelwaleed/chatbot_nti.git
+git remote add origin https://github.com/YusefHaisam57/project1-nlp-chatbot.git
 # 8. Push the code to GitHub
 git push -u origin main
