@@ -16,4 +16,3 @@ git branch -M main
 git remote add origin https://github.com/mahmoudelwaleed/chatbot_nti.git
 # 8. Push the code to GitHub
 git push -u origin main
-
